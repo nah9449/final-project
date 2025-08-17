@@ -5,4 +5,15 @@ To use this app all you need is access to this notebook and internet access for 
 
 Here is a link to the main page of the cocktails API: https://www.thecocktaildb.com/
 
-To run this use your local terminal
+To run this use find the file in your local terminal
+
+1. Install necessary package
+
+To install package enter the following into your terminal:
+
+pip install requests
+
+
+2. Run the app using
+
+python app/app.py
